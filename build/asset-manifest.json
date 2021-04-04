@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/livereact/static/css/main.ba2cdf45.chunk.css",
+    "main.js": "/livereact/static/js/main.2598f3ed.chunk.js",
+    "main.js.map": "/livereact/static/js/main.2598f3ed.chunk.js.map",
+    "runtime-main.js": "/livereact/static/js/runtime-main.e8296792.js",
+    "runtime-main.js.map": "/livereact/static/js/runtime-main.e8296792.js.map",
+    "static/js/2.0d0e2671.chunk.js": "/livereact/static/js/2.0d0e2671.chunk.js",
+    "static/js/2.0d0e2671.chunk.js.map": "/livereact/static/js/2.0d0e2671.chunk.js.map",
+    "static/js/3.35199c1b.chunk.js": "/livereact/static/js/3.35199c1b.chunk.js",
+    "static/js/3.35199c1b.chunk.js.map": "/livereact/static/js/3.35199c1b.chunk.js.map",
+    "index.html": "/livereact/index.html",
+    "static/css/main.ba2cdf45.chunk.css.map": "/livereact/static/css/main.ba2cdf45.chunk.css.map",
+    "static/js/2.0d0e2671.chunk.js.LICENSE.txt": "/livereact/static/js/2.0d0e2671.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/livereact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8296792.js",
+    "static/js/2.0d0e2671.chunk.js",
+    "static/css/main.ba2cdf45.chunk.css",
+    "static/js/main.2598f3ed.chunk.js"
+  ]
+}
